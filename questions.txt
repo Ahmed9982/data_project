@@ -1,0 +1,24 @@
+Data Analysis started from line 21
+
+
+1-How old is the oldest player?
+2-what his name ?
+3-How old is the youngest player?
+4-what his name ?
+5-How many players are over the age of 25?
+6-How many players are under the age of 25?
+7-How many players are = the age of 25?
+8-How tall is the tallest player?
+9-what his name ?
+10-How tall is the shortest player?
+11-what his name ?
+12-How many left footed players?
+13-How many right footed players?
+14-How many players play with both feet?
+15-How many players did not play a match
+16-How many players have played more than 5 matches?
+17-What is the value of the most expensive player?
+18-what his name ?
+19-What is the cheapest player value?
+20-what his name ?
+21-The name of the person who won the most awards and how many?
